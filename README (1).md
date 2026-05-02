@@ -89,7 +89,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashvanthhs595-boop/Smartform-ALV-Submit-report/blob/main/SURE%20Trust%20project%20document.pdf-YASH.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
