@@ -94,7 +94,7 @@ During this course,  I have developed a strong foundation in SAP ABAP, including
 Enhanced it by adding a custom Download button using PF-STATUS, enabling users to export the report data to Excel for offline analysis.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashvanthhs595-boop/Smartform-ALV-Submit-report/blob/main/Main%20Project.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
@@ -103,7 +103,7 @@ Enhanced it by adding a custom Download button using PF-STATUS, enabling users t
   Developed a custom SAP ABAP report similar to ME2M to display purchase order data by material. The report retrieves data from standard tables like EKKO and EKPO, and presents it using ALV for better analysis.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashvanthhs595-boop/Smartform-ALV-Submit-report/blob/main/Main%20Project.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -152,6 +152,8 @@ During my internship period, I participated in multiple community-oriented activ
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0f76e65d-2dea-4980-aa59-9b5a2d2c5f47" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/user-attachments/assets/d7e341fa-bbb2-49a9-b466-bb90bb922809" alt="Community Service Photo 2" width="30%">
+
+
 
 
 
