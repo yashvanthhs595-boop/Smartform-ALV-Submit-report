@@ -128,10 +128,10 @@ During my internship period, I participated in multiple community-oriented activ
 ### **Activities Involved**
 
   
- <Hebbale(V),Kushalanager,Kodagu>
+  Hebbale(V),Kushalanager,Kodagu
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <Hebbale(V),Kushalanager,Kodagu>
+  Hebbale(V),Kushalanager,Kodagu
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 
@@ -152,6 +152,7 @@ During my internship period, I participated in multiple community-oriented activ
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0f76e65d-2dea-4980-aa59-9b5a2d2c5f47" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/user-attachments/assets/d7e341fa-bbb2-49a9-b466-bb90bb922809" alt="Community Service Photo 2" width="30%">
+
 
 
 ## **Certificate**
