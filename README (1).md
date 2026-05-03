@@ -72,41 +72,39 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> SmartForms </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> ALV Report with Excel Download </p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project3">Project 3:</a></strong> Submit ME2M Transaction Report </p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: SmartForms </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  This project involved developing a SmartForm that takes a Business Partner as input, retrieves data from the BUT000 table, maps it to the corresponding Customer Number (KNA1-KUNNR), and displays the information in a structured.
 </p>
 <p>
   <a href="https://github.com/yashvanthhs595-boop/Smartform-ALV-Submit-report/blob/main/SURE%20Trust%20project%20document.pdf-YASH.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: ALV Report with Excel Download</h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  Developed an interactive SAP ABAP ALV report to display material document data from the MSEG table with dynamic filtering.
+Enhanced it by adding a custom Download button using PF-STATUS, enabling users to export the report data to Excel for offline analysis.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<h3 id="project3">Project 3: Submit ME2M Transaction Report</h3>
 <p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+  Developed a custom SAP ABAP report similar to ME2M to display purchase order data by material. The report retrieves data from standard tables like EKKO and EKPO, and presents it using ALV for better analysis.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
