@@ -159,7 +159,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program.The certificate validates the skills, experience, and contributions made during the internship.
 
 <!-- add your certificate image url below (inside src='')-->
 
