@@ -63,11 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
-
+During this course,  I have developed a strong foundation in SAP ABAP, including report development, data dictionary, enhancements like user exits and BADIs, ALV reporting, SmartForms,BAPI,TMG, Search help, Function module and basic module pool programming. I also gained hands-on experience in real-time scenarios like sales order enhancements and custom report development and delivering real-world project solutions.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -76,9 +72,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project2">Project 2:</a></strong> ALV Report with Excel Download </p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> Submit ME2M Transaction Report </p>
+<p><strong><a href="#project3">Project 3:</a></strong> Submit for Report Transaction(ME2M) </p>
 
-<p><em>(You can add more projects as needed)</em></p>
+
 
 </div>
 
@@ -122,32 +118,26 @@ Enhanced it by adding a custom Download button using PF-STATUS, enabling users t
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+I gained valuable hands-on experience through LST (Learning Skills Training) and SST (Soft Skills Training) sessions conducted by Sure ProEd Trust. These sessions helped me improve my communication, problem-solving, and professional behavior. I also developed better teamwork and presentation skills, which are essential in a corporate environment. 
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
 
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
- <!-- add the location where you have panted -->
+ <Hebbale(V),Kushalanager,Kodagu>
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+  <Hebbale(V),Kushalanager,Kodagu>
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+- Providing food to senior citizens helps reduce hunger and improves their health and well-being.
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
